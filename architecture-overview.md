@@ -1,4 +1,4 @@
-# Architecture Overview
+# [EXAMPLE] Architecture Overview
 
 ```mermaid
 flowchart TD
